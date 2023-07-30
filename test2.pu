@@ -1,0 +1,10 @@
+
+
+@startuml 
+class Animal {
+  run()
+}
+class Cat extends Animal {
+}
+@enduml
+
